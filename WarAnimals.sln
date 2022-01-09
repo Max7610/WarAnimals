@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarAnimals", "WarAnimals\WarAnimals.csproj", "{CBF56698-09E9-4DA3-805F-CF834B56E0B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMakeTable", "TestMakeTable\TestMakeTable.csproj", "{5AA9EBE6-B717-41C2-B099-341A915E99CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDirectory", "TestDirectory\TestDirectory.csproj", "{F8D5A7EF-0646-4F5F-92B1-979350906BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CBF56698-09E9-4DA3-805F-CF834B56E0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBF56698-09E9-4DA3-805F-CF834B56E0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBF56698-09E9-4DA3-805F-CF834B56E0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA9EBE6-B717-41C2-B099-341A915E99CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA9EBE6-B717-41C2-B099-341A915E99CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA9EBE6-B717-41C2-B099-341A915E99CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA9EBE6-B717-41C2-B099-341A915E99CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D5A7EF-0646-4F5F-92B1-979350906BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D5A7EF-0646-4F5F-92B1-979350906BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D5A7EF-0646-4F5F-92B1-979350906BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D5A7EF-0646-4F5F-92B1-979350906BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
