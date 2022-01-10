@@ -116,7 +116,7 @@ namespace WarAnimals.Classes
                 }
                 else
                 {
-                    ABC[i] = _ABC[i / _ABC.Length] + _ABC[i % _ABC.Length];
+                    ABC[i] = _ABC[i / _ABC.Length-1] + _ABC[i % _ABC.Length];
                 }
             }
 

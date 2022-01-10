@@ -39,7 +39,7 @@ namespace WarAnimals
             do
             {
                 Console.SetCursorPosition(0, Console.WindowHeight );
-                Console.WriteLine($"Программа будет закрыта через {dt} сек");
+                Console.WriteLine($"Программа будет закрыта через {dt} сек   ");
                 System.Threading.Thread.Sleep(1000);
                 dt--;
             } while (dt > 0);
